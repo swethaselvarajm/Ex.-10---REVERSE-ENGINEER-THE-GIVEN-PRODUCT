@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![edm input](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/81caa103-faf8-4181-9ab0-7c776fd70621)
 
 ### Output:
+![edm output](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/394d3ccd-0628-4c3f-a1fe-b404fef17acc)
 
 
-### Name:
-### Register Number:
+### Name: SWETHA.S
+### Register Number: 212222230155
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
