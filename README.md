@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![edm input](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/81caa103-faf8-4181-9ab0-7c776fd70621)
+![ex8 pic](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/bb743ad1-d4b9-4cd1-beeb-1a73d841ace7)
+
 
 ### Output:
-![edm output](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/394d3ccd-0628-4c3f-a1fe-b404fef17acc)
+![ex08 dow](https://github.com/swethaselvarajm/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119525603/258ca6ad-70dd-41c6-b8b3-43e94590b39b)
+
 
 
 ### Name: SWETHA.S
